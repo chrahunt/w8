@@ -10,5 +10,6 @@ setup(
             'w8 = w8.cli:main',
         ],
     },
+    license="MIT",
     packages=find_packages(),
 )
